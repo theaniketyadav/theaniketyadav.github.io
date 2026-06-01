@@ -1,0 +1,342 @@
+A few days ago, I made one of the biggest mistakes a filmmaker can make.
+
+While cleaning up my Samsung T7 1TB SSD, I accidentally deleted around 100GB of footage that I actually needed. The moment I realized what I'd done, my heart sank. If you're a filmmaker, photographer, or content creator, you probably know that feeling.
+
+Hours of work. Gone.
+
+At first, I thought I'd lost everything. But after a lot of research, patience, and a few stressful hours, I managed to recover most of the footage and even repair the files that seemed completely broken.
+
+I'm writing this article because when I was searching for solutions, most of the guides I found were either too technical or didn't explain the entire process from start to finish. So here's exactly what worked for me.
+
+The First Thing I Did
+
+The second I realized the footage was gone, I stopped using the SSD completely.
+
+This is probably the most important step in the entire recovery process.
+
+When you delete a file, it isn't actually removed immediately. Your computer simply marks that space as "available" for new data. If you keep using the drive, new files can overwrite the deleted data, and once that happens, recovery becomes much harder or even impossible.
+
+So I immediately disconnected my Samsung T7 SSD from my Mac and connected it to my Windows PC.
+
+Recovering the Deleted Files with Disk Drill
+
+After doing some research, I decided to try Disk Drill.
+
+Official Website:
+
+https://www.cleverfiles.com/disk-drill-windows.html
+
+I installed the software, connected my SSD, selected the drive, and started a deep scan.
+
+What surprised me was how much data the software was able to find.
+
+My SSD is only 1TB, but Disk Drill ended up analyzing traces of more than 4TB worth of current and previously deleted data. It was finding files that had been deleted long before this incident.
+
+The scan itself took around 4 to 5 hours to complete.
+
+And honestly, the waiting was painful.
+
+Every few minutes I wanted to check the progress, hoping the footage would appear. But the best thing you can do is let the software finish its work.
+
+Once the scan was complete, I spent another hour carefully going through the results.
+
+Eventually, I found what I was looking for.
+
+The footage was there.
+
+Or at least most of it was.
+
+Step-by-Step Guide: Recovering Deleted Files with Disk Drill
+Step 1: Stop Using the Drive Immediately
+
+Do not:
+
+Copy new files to the drive
+Move files onto the drive
+Install software on the drive
+Continue editing from the drive
+
+The less you use the drive, the better your chances of recovery.
+
+Step 2: Download Disk Drill
+
+Download Disk Drill from:
+
+https://www.cleverfiles.com/disk-drill-windows.html
+
+Install it on a different drive than the one you are trying to recover.
+
+For example:
+
+✅ Install on your computer's internal SSD
+
+❌ Do not install on the SSD that contains the deleted files
+
+Step 3: Connect the Drive
+
+Connect the SSD or hard drive containing the deleted files to your computer.
+
+In my case, I connected my Samsung T7 1TB SSD to a Windows PC.
+
+Step 4: Launch Disk Drill
+
+Open Disk Drill.
+
+You should see a list of all connected drives.
+
+Locate the drive that contains the deleted files.
+
+Step 5: Start the Scan
+
+Click on the drive.
+
+Click Search for Lost Data.
+
+Disk Drill will begin scanning.
+
+Depending on your drive size, this may take several hours.
+
+My scan took approximately 4 to 5 hours.
+
+Do not interrupt the process.
+
+Step 6: Review Found Files
+
+Once the scan is complete:
+
+Click Review Found Items
+Browse through folders
+Preview files whenever possible
+Search by file type if necessary
+
+Take your time.
+
+The files you're looking for may not be in the first folder you open.
+
+Step 7: Recover the Files
+
+Select the files you want to recover.
+
+Click Recover.
+
+IMPORTANT:
+
+Choose a different drive as the destination.
+
+Example:
+
+✅ Recover to your computer's internal SSD
+
+❌ Do not recover back to the same SSD
+
+This prevents overwriting additional recoverable data.
+
+Step 8: Verify Everything
+
+Open all important files.
+
+Some files may work perfectly.
+
+Others may be corrupted.
+
+This is exactly what happened in my case.
+
+Many clips opened immediately, but some larger video files would not play.
+
+The Next Problem: Corrupted Video Files
+
+This is where things got frustrating.
+
+Many of the recovered clips worked perfectly, but some of the larger files wouldn't open at all.
+
+The file sizes looked normal.
+
+The names were correct.
+
+Everything seemed fine.
+
+But when I tried playing them, nothing happened.
+
+Some videos showed a black screen.
+
+Others gave playback errors.
+
+VLC couldn't open them properly, and neither could my editing software.
+
+After some testing, I noticed that most of the corrupted files were larger than 1GB.
+
+At this point I was relieved that the files had been recovered, but now I had a completely new problem.
+
+How do you repair footage that technically exists but won't play?
+
+Trying Different Repair Methods
+
+Before spending money on software, I tried some free options.
+
+I looked into VLC repair methods, command-line fixes, and a few other tools people recommended online.
+
+While these methods can work for minor corruption, they weren't enough for the footage I needed.
+
+Since these clips were important to a project I was working on, I decided to try Wondershare Repairit.
+
+And surprisingly, this ended up being what saved the footage.
+
+Repairing Corrupted Videos with Wondershare Repairit
+
+Official Website:
+
+https://recoverit.wondershare.net/ad/repairit.html
+
+The software has something called Advanced Repair.
+
+Instead of trying to guess what the damaged file should look like, it asks for a healthy sample video recorded with the same camera settings.
+
+This part is extremely important.
+
+The sample clip should be recorded using the exact same settings as the damaged footage.
+
+For example:
+
+Same camera
+Same codec
+Same resolution
+Same frame rate
+Same bit depth
+Same color profile
+
+In my case, the damaged clips were recorded in:
+
+10-bit
+25fps
+4:2:2
+
+So I used another working clip recorded using those exact settings.
+
+The sample did not need to be from the same scene.
+
+It simply needed matching camera settings.
+
+Step-by-Step Guide: Repairing Corrupted Videos
+Step 1: Download Wondershare Repairit
+
+Download it from:
+
+https://recoverit.wondershare.net/ad/repairit.html
+
+Install the software on your computer.
+
+Step 2: Find a Sample Video
+
+Before opening the software, locate a healthy video recorded with the same settings as the damaged footage.
+
+The closer the settings match, the better the results.
+
+Step 3: Launch Wondershare Repairit
+
+Open Wondershare Repairit.
+
+Select Video Repair.
+
+Step 4: Add the Corrupted Videos
+
+Click Add Video.
+
+Select all damaged files.
+
+Wait for them to load.
+
+Step 5: Run Standard Repair
+
+Click Repair.
+
+The software will attempt a standard repair first.
+
+Some videos may already be fixed after this step.
+
+Step 6: Use Advanced Repair
+
+If the files still do not play:
+
+Click Advanced Repair.
+
+The software will ask for a sample video.
+
+Upload the healthy reference clip you prepared earlier.
+
+Step 7: Let the Software Analyze
+
+Repairit will compare:
+
+The damaged file
+The healthy sample file
+
+It then uses information from the healthy file to rebuild the damaged one.
+
+Depending on file size, this process may take several minutes.
+
+Step 8: Preview the Results
+
+Once the repair completes:
+
+Click Preview
+Watch part of the video
+Check the audio
+Scrub through the timeline
+Make sure everything plays correctly
+Step 9: Save the Repaired Files
+
+If everything looks good:
+
+Click Save Repaired Videos.
+
+Choose a safe location on your computer.
+
+I personally recommend creating a folder called:
+
+Recovered Footage - Repaired
+
+This makes it easy to keep track of the repaired versions.
+
+What I Learned
+
+If there's one thing this experience taught me, it's that backups are not optional.
+
+As creators, we spend so much time shooting, editing, and perfecting our work that it's easy to forget how fragile digital files can be.
+
+A single wrong click nearly cost me 100GB of footage.
+
+Thankfully, I got lucky.
+
+Follow the 3-2-1 Backup Rule
+
+Professional creators should always try to maintain:
+
+3 copies of their data
+2 different storage devices
+1 off-site or cloud backup
+Stop Using the Drive Immediately
+
+The faster you stop using the drive after deletion, the higher your chances of successful recovery.
+
+Recover First, Repair Later
+
+Don't start experimenting with repair tools before recovering the files.
+
+Always:
+
+Recover the files first
+Save them to a different drive
+Then repair any corrupted files
+Final Thoughts
+
+When I accidentally deleted around 100GB of footage from my Samsung T7 SSD, I honestly thought it was gone forever.
+
+Fortunately, Disk Drill helped me recover the files, and Wondershare Repairit helped me repair the clips that were corrupted.
+
+The entire process took several hours, but compared to reshooting days of work, it was absolutely worth it.
+
+If you're currently dealing with deleted footage, don't panic.
+
+Stop using the drive immediately, recover the files before doing anything else, and if some of the recovered videos are corrupted, don't give up. There are still good chances that they can be repaired.
+
+Hopefully my experience saves you a few hours of stress—and maybe some important footage too.
